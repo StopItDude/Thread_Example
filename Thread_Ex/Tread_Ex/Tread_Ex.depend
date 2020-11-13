@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605285028 source:c:\users\john curtin\documents\c++ development\thread\thread_ex\tread_ex\main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<vector>
+	<algorithm>
+	<stdlib.h>
+
